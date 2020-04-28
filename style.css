@@ -1,5 +1,6 @@
-
-
+html {
+  scroll-behavior: smooth;
+}
 .header-section{
   width: 100%;
   margin: 12px 0px;
